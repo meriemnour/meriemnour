@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)[![MasterHead]
 <h1 align="center">Hi 👋, I'm Meriem Nour Ghozzi</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate Data Analyst from Tunisia</h3>
 <img alig"right" alt="Coding" widht="400" src"https://www.esds.co.in/blog/wp-content/uploads/2019/06/AI-Gif.gif"> 
 
 
