@@ -1,17 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)[![MasterHead]
 <h1 align="center">Hi 👋, I'm Meriem Nour Ghozzi</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <img alig"right" alt="Coding" widht="400" src"https://www.esds.co.in/blog/wp-content/uploads/2019/06/AI-Gif.gif"> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemnour" alt="meriemnour" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Fast API, Python, Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **meriemnour.ghozzi@esprit.tn**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
